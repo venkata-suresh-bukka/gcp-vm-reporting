@@ -1,0 +1,4 @@
+Instance Name,Instance IP,Instance State,Region
+instance-2,10.154.0.2,TERMINATED,europe-west2-c
+instance-4,10.174.0.2,RUNNING,asia-northeast2-a
+instance-6,10.174.0.3,RUNNING,asia-northeast2-a
